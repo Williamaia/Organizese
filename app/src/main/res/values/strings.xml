@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Organizese</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Acessar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_register">Criar uma conta</string>
+    <string name="login_remember">Manter conectado</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_name">Nome</string>
+    <string name="register_email">Email</string>
+    <string name="register_senha">Senha</string>
+    <string name="register_senha_confirm">Confirmar senha</string>
+    <string name="register_salvar">Salvar</string>
+    <string name="register_limpar">Limpar</string>
+    <string name="register_M">Masculino</string>
+    <string name="register_F">Feminino</string>
+    <string name="register_O">Recusar Dizer</string>
+    <string name="logon">Logar ao salvar?</string>
+
+</resources>
