@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Organizese</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Acessar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_register">Criar uma conta</string>
+    <string name="login_remember">Manter conectado</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_name">Nome</string>
+    <string name="register_email">Email</string>
+    <string name="register_senha">Senha</string>
+    <string name="register_senha_confirm">Confirmar senha</string>
+    <string name="register_salvar">Salvar</string>
+    <string name="register_limpar">Limpar</string>
+    <string name="register_M">Masculino</string>
+    <string name="register_F">Feminino</string>
+    <string name="register_O">Recusar Dizer</string>
+    <string name="logon">Logar ao salvar?</string>
+
+    <string name="title_novo_registro">Novo Registro</string>
+    <string name="title_editar_registro">Alterar Registro</string>
+
+    <string name="title_icon_salvar">Salvar</string>
+    <string name="title_icon_adicionar">Adicionar</string>
+    <string name="title_icon_cancelar">Cancelar</string>
+    <string name="title_icon_sobre">Sobre</string>
+    <string name="title_icon_editar">Editar</string>
+    <string name="title_icon_excluir">Excluir</string>
+    <string name="title_icon_limpar">Limpar</string>
+
+    <string name="descricao_tela_sobre">Organizese é um app para controle de finanças, onde você informa o tipo da receita e o tipo da despesa e o app faz todo o calculo para controle de seus gastos</string>
+    <string name="curso_tela_sobre">Análise e Desenvolvimento de Sistemas</string>
+    <string name="email_tela_sobre">williamaiadias@gmail.com</string>
+    <string name="nome_tela_sobre">William Maia</string>
+</resources>
